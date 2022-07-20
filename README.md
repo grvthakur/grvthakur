@@ -1,6 +1,6 @@
 
 
-<img src="https://raw.githubusercontent.com/lapalb/lapalb/master/header.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="https://github.com/grvthakur/grvthakur/blob/master/header.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 
 I'm an Software Engineer exploring the open source to enhance and participate in knowledge sharing .
 
