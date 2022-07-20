@@ -7,6 +7,7 @@ I'm an Software Engineer exploring the open source to enhance and participate in
 <div style="display:flex; justify-content: space-between">
 <img src="https://github-readme-stats.vercel.app/api?username=grvthakur">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=grvthakur&show_icons=true&locale=en&layout=compact" alt="Gaurav Thakur " height="194px">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=grvthakur&" alt="Gaurav Thakur" /></p>
 </div>
 <br>
 
