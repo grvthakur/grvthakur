@@ -21,7 +21,7 @@ I'm an Software Engineer exploring the open source to enhance and participate in
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=grvthakur&layout=compact&langs_count=8&theme=algolia"/>
  </a>
 </p>
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=grvthakur&theme=onedark" alt="Gaurav Thakur" /></p>
+   <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=grvthakur&theme=onedark" alt="Gaurav Thakur" /></</div>
 
 
 
