@@ -4,14 +4,14 @@
 
 I'm an Software Engineer exploring the open source to enhance and participate in knowledge sharing .
 
-<div style="display:flex; justify-content: space-between">
+<!-- <div style="display:flex; justify-content: space-between">
 
 <img src="https://github-readme-stats.vercel.app/api?username=grvthakur">
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=grvthakur&show_icons=true&locale=en&layout=compact" alt="Gaurav Thakur " height="194px">
   
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=grvthakur&" alt="Gaurav Thakur" /></p>
-</div>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=grvthakur&theme=onedark" alt="Gaurav Thakur" /></p>
+</div> -->
 <br>
 
 ### Github Stats
@@ -19,7 +19,7 @@ I'm an Software Engineer exploring the open source to enhance and participate in
   <a href="https://github.com/grvthakur">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=grvthakur&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=grvthakur&layout=compact&langs_count=8&theme=algolia"/>
-   
+   <p><img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=grvthakur&theme=onedark" alt="Gaurav Thakur" /></p>
   </a>
 </p>
 
